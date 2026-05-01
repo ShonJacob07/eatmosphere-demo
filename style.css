@@ -414,12 +414,12 @@ footer{
 .ft-copy{font-size:0.65rem;color:rgba(247,242,234,0.16)}
 .ft-powered{font-size:0.62rem;color:rgba(247,242,234,0.2);margin-top:0.4rem;letter-spacing:0.06em;}
 .ft-powered-sub{opacity:0.45}
-/* .ft-auvrai{
+.ft-auvrai{
  color:var(--ember-light);text-decoration:none;font-weight:700; 
   letter-spacing:0.1em;font-family:var(--font-display);font-size:0.72rem;
   transition:color 0.2s,letter-spacing 0.25s;
 }
-.ft-auvrai:hover{color:var(--cream);letter-spacing:0.18em;} */
+.ft-auvrai:hover{color:var(--cream);letter-spacing:0.18em;}
 
 /* ── WA FLOAT ── */
 .wa-float{
